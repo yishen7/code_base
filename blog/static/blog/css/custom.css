@@ -1,4 +1,4 @@
-/**
+﻿/**
  * Table of Contents
  *
  * 1.0 - Google Font
@@ -431,6 +431,11 @@ img {
     margin-bottom: 10px;
     padding: 3px 8px;
     border: 1px solid #ddd;
+}
+
+.widget2 {
+    background: #fff;
+    padding: 5px 0 0;
 }
 
 .widget-content ul ul {

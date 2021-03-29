@@ -15,7 +15,7 @@ Markdown==2.6.9
 olefile==0.44
 Pillow==4.2.1
 prettytable==0.7.2
-Pygments==2.2.0
+Pygments==2.7.4
 pyperclip==1.5.27
 pypiwin32==220
 PyQt5==5.9

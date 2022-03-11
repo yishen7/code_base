@@ -13,7 +13,7 @@ idna==2.5
 image==1.5.11
 Markdown==2.6.9
 olefile==0.44
-Pillow==4.2.1
+Pillow==9.0.1
 prettytable==0.7.2
 Pygments==2.2.0
 pyperclip==1.5.27

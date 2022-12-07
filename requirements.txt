@@ -2,7 +2,7 @@ antiorm==1.2.1
 attr==0.2.0
 beautifulsoup4==4.6.0
 bs4==0.0.1
-certifi==2017.4.17
+certifi==2022.12.7
 chardet==3.0.4
 colorama==0.3.9
 db==0.1.1
